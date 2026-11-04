@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Fab/_Free__Kazakh_Hunting_Knife/free_kazakh_hunting_knife/Materials/blade.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Fab/_Free__Kazakh_Hunting_Knife/free_kazakh_hunting_knife/StaticMeshes/free_kazakh_hunting_knife.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Fab/_Free__Kazakh_Hunting_Knife/free_kazakh_hunting_knife/Textures/free_kazakh_hunting_knife_texture_0.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Fab/_Free__Kazakh_Hunting_Knife/free_kazakh_hunting_knife/Textures/free_kazakh_hunting_knife_texture_1.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Fab/_Free__Kazakh_Hunting_Knife/free_kazakh_hunting_knife/Textures/free_kazakh_hunting_knife_texture_2.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Fab/_Free__Kazakh_Hunting_Knife/free_kazakh_hunting_knife/Textures/free_kazakh_hunting_knife_texture_3.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Fab/_Free__Kazakh_Hunting_Knife/free_kazakh_hunting_knife/Textures/free_kazakh_hunting_knife_texture_4.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Fab/_Free__Kazakh_Hunting_Knife/free_kazakh_hunting_knife/Materials/handle.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/Knife/blade.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/Knife/handle.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/Knife/free_kazakh_hunting_knife_texture_0.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/Knife/free_kazakh_hunting_knife_texture_1.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/Knife/free_kazakh_hunting_knife_texture_2.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/Knife/free_kazakh_hunting_knife_texture_3.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/Knife/free_kazakh_hunting_knife_texture_4.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/Knife/free_kazakh_hunting_knife.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Input/Actions/IA_attack.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Input/IMC_Default.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Characters/Mannequins/Anims/Anim_Whisper_Attack1.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Whisper/Animations/Anim_Whisper_Attack1.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/Characters/Mannequins/Anims/AM_attack.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/5O/S7FDI440VSBV4KQGCS1YZI.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/AI/BP_Demon.uasset",
+				"C:/Users/Gareth/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/AI/BP_Human.uasset"
+			]
+		}
+	]
+}
