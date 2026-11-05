@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ryan/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/UI/WB_HUD.uasset",
+				"C:/Users/Ryan/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/AI/BP_Demon.uasset",
+				"C:/Users/Ryan/OneDrive/Documents/GitHub/GameHalloween2026GameJam/HalloweenGameProject/Content/BP/AI/BP_Human.uasset"
+			]
+		}
+	]
+}
